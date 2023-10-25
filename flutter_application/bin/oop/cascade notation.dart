@@ -19,10 +19,10 @@ void main() {
     ..name = "Julia"
     ..email = "julianawahab0604@gmail.com";
 
-  User? user2 = createUser()
-    ?..username = "Julia"
-    ..name = "Julia"
-    ..email = "julianawahab0604@gmail.com";
+  //User? user2 = createUser()
+  //?..username = "Julia"
+  //..name = "Julia"
+  //..email = "julianawahab0604@gmail.com";
 
   print(user.username);
   print(user.name);
